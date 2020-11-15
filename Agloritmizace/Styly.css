@@ -1,0 +1,36 @@
+body
+{
+background-color:#FFFFFF;
+font-family: Arial CE, sans-serif;
+
+}
+#obal
+{
+background-color:#FFFFF;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+height:auto;
+}
+h1
+{
+text-align:center;
+font-size:40px;
+color:#000066;
+font-family:Arial CE;
+}
+h2
+{
+text-align:left;
+font-size:25px;
+color:#000033;
+}
+a
+{
+color:#3300FF;
+}
+p
+{
+color:#000000;
+text-align:left;
+}
