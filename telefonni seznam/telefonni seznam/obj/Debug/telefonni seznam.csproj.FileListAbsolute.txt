@@ -1,0 +1,7 @@
+C:\Users\Lukáš\source\repos\telefonni seznam\telefonni seznam\bin\Debug\telefonni seznam.exe.config
+C:\Users\Lukáš\source\repos\telefonni seznam\telefonni seznam\bin\Debug\telefonni seznam.exe
+C:\Users\Lukáš\source\repos\telefonni seznam\telefonni seznam\bin\Debug\telefonni seznam.pdb
+C:\Users\Lukáš\source\repos\telefonni seznam\telefonni seznam\obj\Debug\telefonni seznam.csprojAssemblyReference.cache
+C:\Users\Lukáš\source\repos\telefonni seznam\telefonni seznam\obj\Debug\telefonni seznam.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš\source\repos\telefonni seznam\telefonni seznam\obj\Debug\telefonni seznam.exe
+C:\Users\Lukáš\source\repos\telefonni seznam\telefonni seznam\obj\Debug\telefonni seznam.pdb
